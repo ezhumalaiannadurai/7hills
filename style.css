@@ -1,0 +1,31 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color:orangered ;
+  font-size: 3rem;
+}
+
+h5 {
+  color:orangered;
+}
+
+.poster {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 100px;
+  color: orangered;
+  font-family: "Libre Baskerville", serif;
+  text-align: center;
+  border-radius: 50%;
+}
+ 
+
+.motivationimg {
+ width: 100%;
+border:5px solid whitesmoke;
+
+ 
+
+}
